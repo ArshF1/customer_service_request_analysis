@@ -63,7 +63,7 @@ Open `main.ipynb` and run the cells sequentially.
 ## Files
 
 - [main.ipynb](main.ipynb) — analysis notebook with data cleaning, EDA and plots.
-- `datasets/311_Service_Requests_from_2010_to_Present.csv` — raw dataset (not included in repository).
+- `datasets/311_Service_Requests_from_2010_to_Present.csv` — raw dataset.
 - `requirements.txt` — required Python packages.
 
 ## Next steps (suggestions)
